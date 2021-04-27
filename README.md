@@ -8,7 +8,7 @@ By doing so, we favor specific attributes, and more birds have that attribute, a
 
 ## NEAT:
 
-![Two Birds playing](https://drive.google.com/file/d/1EjlszLR56oq75uD2AEhgGiTG7wHmEoUw/preview)
+![Two Birds playing](/imgs/"Birds Playing.PNG")
 
 "NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. For a detailed description of the algorithm, you should probably go read some of Stanley’s papers on his website.....
 
