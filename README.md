@@ -18,7 +18,7 @@ To evolve a solution to a problem, the user must provide a fitness function whic
 
 I used Pygame to make the game. I first made the game from scratch using a Youtube Video, and some good old OOP.
 
-### Classes: 
+## Classes: 
 * Bird 
 * Pipe
 * Base
