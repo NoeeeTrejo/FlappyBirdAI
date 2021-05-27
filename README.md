@@ -24,6 +24,6 @@ I used Pygame to make the game. I first made the game from scratch using a Youtu
 * Base
 
 Something I learned when making this game is that instead of the bird moving towards the pipes, 
-we make the illusion that the Bird moves by moving everyhing towards the bird!
+we make the illusion that the Bird moves by moving everything towards the bird!
 
 
